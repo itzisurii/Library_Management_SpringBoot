@@ -1,2 +1,18 @@
-# Library_Management_SpringBoot
-A Library Management System built using Spring Boot and Hibernate (JPA). It includes CRUD operations for books and members, issuing and returning books, and basic overdue handling. The project follows a clean layered architecture (Controller–Service–Repository) and demonstrates proper use of Spring Data JPA and ORM concepts.
+# 📚 Library Management System — Spring Boot + Hibernate
+
+A simple Library Management System built using **Spring Boot**, **Hibernate (JPA)**, and **Spring Data JPA**.  
+Supports CRUD operations for books and members, book issuing & returning, and follows a clean layered architecture.
+
+---
+
+## 🚀 Features
+- CRUD for Books  
+- CRUD for Members  
+- Issue a Book  
+- Return a Book  
+- Track availability  
+- Basic overdue handling  
+- REST API using Spring Web  
+- Hibernate ORM with Spring Data JPA  
+- MySQL or H2 support  
+
